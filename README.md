@@ -3,8 +3,12 @@
 ## ✨hi, i am esma,
 #### frontend developer
 
-i am passionate about learning new things, supporting open source projects, and diving into <i>web design</i> and  <i>pixel art</i>.<br>
-check out my [website](https://www.esmaoruc.com/) for more
+i am passionate about learning new things, supporting open source projects, and diving into <i>web design</i> and  <i>pixel art</i>
+
+
+check out my website for more 
+
+[esmaoruc.com](https://www.esmaoruc.com/)
 
 
 
