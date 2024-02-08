@@ -4,7 +4,7 @@
 #### frontend developer
 
 i am passionate about learning new things, supporting open source projects, and diving into <i>web design</i> and  <i>pixel art</i>.<br>
-check out my [website](https://website-l47zf3u0t-kvothes-projects.vercel.app/) for more
+check out my [website](https://website-seven-zeta-86.vercel.app/) for more
 
 
 
