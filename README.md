@@ -2,13 +2,15 @@
 
 ## ✨hi, i am esma,
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
-![Aseprite](https://img.shields.io/badge/Aseprite-05122A?style=flat&logo=Aseprite)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-05122A?style=flat&logo=Next.js)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Aseprite](https://img.shields.io/badge/Aseprite-05122A?style=flat&logo=Aseprite)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-05122A?logo=cshrp)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+
 
 i am passionate about learning new things, supporting open source projects, and diving into <i>web design</i> and  <i>pixel art</i>
 
