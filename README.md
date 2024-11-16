@@ -12,7 +12,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
 
 
-i am passionate about learning new things, supporting open source projects, and diving into <i>web design</i> and  <i>pixel art</i>
+i am passionate about learning new things, supporting open source projects, and diving into <i>web design</i>
 
 
 check out my website for more 
