@@ -10,6 +10,7 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-05122A?style=flat&logo=Aseprite)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-05122A?logo=cshrp)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 
 i am passionate about learning new things, supporting open source projects, and diving into <i>web design</i>
