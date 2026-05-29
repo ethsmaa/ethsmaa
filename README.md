@@ -5,7 +5,7 @@
 <h1 align="center">✨ hi, i am esma</h1>
 
 <h6 align="center">
-<em>i am passionate about learning new things, supporting <b>open source projects</b>, and diving into <b>web design</b></em></h6>
+i am passionate about learning <em> new things</em>, supporting <em>open source projects</em>, and diving into <em>web design</em></h6>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-FFF8B0?style=flat&logo=javascript&logoColor=F7DF1E" />
