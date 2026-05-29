@@ -4,8 +4,8 @@
 
 <h1 align="center">✨ hi, i am esma</h1>
 
-<p align="center">
-<em>i am passionate about learning new things, supporting <b>open source projects</b>, and diving into <b>web design</b></em></p>
+<h6 align="center">
+<em>i am passionate about learning new things, supporting <b>open source projects</b>, and diving into <b>web design</b></em></h6>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-FFF8B0?style=flat&logo=javascript&logoColor=F7DF1E" />
@@ -21,10 +21,10 @@
   <img src="https://img.shields.io/badge/Supabase-D2FBE3?style=flat&logo=supabase&logoColor=3FCF8E" />
 </p>
 
-<p align="center">
+<h6 align="center">
   check out my website for more<br>
   <a href="https://www.esmaoruc.com/">esmaoruc.com</a> <em>(to be updated soon)</em>
-</p>
+</h6>
 
 
 <h1 align="center">connect with me</h1>
