@@ -34,9 +34,3 @@ i am passionate about learning <em> new things</em>, supporting <em>open source 
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ethsmaa" height="30" width="40" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://wakatime.com/@faafbef5-9bef-4306-a9a1-6d3c09b92290">
-    <img src="https://wakatime.com/badge/user/faafbef5-9bef-4306-a9a1-6d3c09b92290.svg" alt="wakatime" />
-  </a>
-</p>
