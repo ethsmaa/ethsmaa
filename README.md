@@ -7,7 +7,7 @@
 <h6 align="center">
 i am passionate about learning <em> new things</em>, supporting <em>open source projects</em>, and diving into <em>web design</em></h6>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-FFF8B0?style=flat&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/-TypeScript-BFE3FF?style=flat&logo=TypeScript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/-React-C9F4FF?style=flat&logo=react&logoColor=61DAFB" />
@@ -19,7 +19,7 @@ i am passionate about learning <em> new things</em>, supporting <em>open source 
   <img src="https://img.shields.io/badge/-Java-FFE9CC?style=flat&logo=openjdk&logoColor=FFA518" />
   <img src="https://img.shields.io/badge/-MySQL-FFF1D6?style=flat&logo=mysql&logoColor=00758F" />
   <img src="https://img.shields.io/badge/Supabase-D2FBE3?style=flat&logo=supabase&logoColor=3FCF8E" />
-</p>
+</div>
 
 <h6 align="center">
   check out my website for more<br>
